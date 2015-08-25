@@ -4,9 +4,11 @@
 </head>
 
 <body>
-
-<p>Search Engines - New Issues</p>
-
+<<<<<<< HEAD
+<p>Search Engines</p>
+=======
+<p>Search ENgines</p>
+>>>>>>> iss53
 <ul>
 <li>Google - www.google.com</li>
 <li>Yahoo - www.yahoo.com</li>
